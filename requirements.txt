@@ -6,7 +6,6 @@ supabase
 langchain
 langchain-openai
 langchain-pinecone
-langchain-community
 pinecone-client
 PyMuPDF
 rank_bm25
