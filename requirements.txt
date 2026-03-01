@@ -3,10 +3,14 @@ pandas
 openpyxl
 st-login-form
 supabase
-langchain
-langchain-openai
-langchain-pinecone
 pinecone-client
 PyMuPDF
 rank_bm25
 python-dotenv
+langchain==1.2.10
+langchain-classic==1.0.1
+langchain-community==0.4.1
+langchain-core==1.2.16
+langchain-openai==1.1.10
+langchain-pinecone==0.2.13
+langchain-text-splitters==1.1.1
