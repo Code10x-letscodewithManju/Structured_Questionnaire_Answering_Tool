@@ -1,8 +1,8 @@
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_pinecone import PineconeVectorStore
 from langchain_community.retrievers import BM25Retriever
-from langchain.retrievers import EnsembleRetriever
-from langchain_core.documents import Document 
+from langchain_classic.retrievers import EnsembleRetriever
+from langchain_core.documents import Document
 from config import OPENAI_API_KEY, PINECONE_INDEX_NAME
 import fitz  # PyMuPDF for high-accuracy PDF parsing
 
