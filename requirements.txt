@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-openai
+langchain-pinecone
+pinecone
+supabase
+PyMuPDF
+openpyxl
+rank_bm25
+pydantic
+python-dotenv
+st-login-form
