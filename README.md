@@ -51,6 +51,7 @@ Standard RAG systems often suffer from "Contextual Drift"—where they understan
 ---
 
 ## 📦 3. Project File Map & Execution Flow
+![Hybrid RAG Architecture](SQAT_System_Diagram.png)
 
 ### **File Responsibilities**
 
