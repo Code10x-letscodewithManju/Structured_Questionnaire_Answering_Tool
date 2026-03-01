@@ -4,8 +4,7 @@
 **An Enterprise-Grade Intelligence Layer designed to automate complex technical questionnaires by bridging the gap between unstructured documentation and structured inquiries.**
 
 ---
-
-## 📝 Technical Assessment Summary
+## Technical Summary
 
 ### 🏢 The Fictional Use Case: AegisGrad Cloud
 
