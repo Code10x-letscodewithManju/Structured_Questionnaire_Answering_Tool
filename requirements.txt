@@ -3,7 +3,6 @@ pandas
 openpyxl
 st-login-form
 supabase
-pinecone
 PyMuPDF
 rank_bm25
 python-dotenv
@@ -14,3 +13,6 @@ langchain-core==1.2.16
 langchain-openai==1.1.10
 langchain-pinecone==0.2.13
 langchain-text-splitters==1.1.1
+pinecone==7.3.0
+pinecone-plugin-assistant==1.8.0
+pinecone-plugin-interface==0.0.7
