@@ -3,7 +3,7 @@ pandas
 openpyxl
 st-login-form
 supabase
-pinecone-client
+pinecone
 PyMuPDF
 rank_bm25
 python-dotenv
