@@ -10,5 +10,4 @@ langchain
 langchain-openai
 langchain-community
 langchain-pinecone
-langchain-core
-pinecone==3.2.2
+pinecone[grpc]==3.2.2
