@@ -1,5 +1,5 @@
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
-from langchain_pinecone import PineconeVectorStore
+from langchain_pinecone import Pinecone
 from langchain_community.retrievers import BM25Retriever
 from langchain_classic.retrievers import EnsembleRetriever
 from langchain_core.documents import Document
@@ -29,7 +29,7 @@ class RAGEngine:
     def get_hybrid_retriever(self, all_docs):
         """Creates a Hybrid Search engine (Semantic + Keyword) for better accuracy."""
         # 1. Semantic Search (Dense Vectors) via Pinecone
-        vectorstore = PineconeVectorStore.from_documents(
+        vectorstore = Pinecone.from_documents(
             all_docs, self.embeddings, index_name=PINECONE_INDEX_NAME
         )
         
