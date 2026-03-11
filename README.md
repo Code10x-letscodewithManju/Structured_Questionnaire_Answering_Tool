@@ -12,11 +12,15 @@
 * **Industry:** B2B EdTech / Advancement SaaS
 * **Description:** AegisGrad Cloud provides a zero-trust SaaS environment for higher education institutions to manage alumni networks, process high-net-worth donor contributions, and track engagement metrics. We focus strictly on the university sector, offering military-grade encryption and compliance frameworks to protect sensitive student records and financial data.
 * **The Knowledge Base (5 PDFs):** To simulate this secure environment, the engine was seeded with the following 5 foundational compliance documents:
-1. `AegisGrad_Information_Security_Policy_v2.pdf`
-2. `AegisGrad_SOC2_Type_II_Report_2024.pdf`
-3. `AegisGrad_Data_Processing_Agreement_(DPA).pdf`
-4. `AegisGrad_Incident_Response_Plan.pdf`
-5. `AegisGrad_Privacy_and_Data_Retention_Policy.pdf`
+## AegisGrad Documents
+
+- AegisGrad_BCDR_and_Infrastructure_SLA.pdf
+- AegisGrad_Data_Privacy_and_Governance_Framework.pdf
+- AegisGrad_HR_Security_and_Vendor_Risk_Management.pdf
+- AegisGrad_Information_Security_Architecture.pdf
+- AegisGrad_Secure_Software_Development_and_Change_Management.pdf
+
+
 
 
 
